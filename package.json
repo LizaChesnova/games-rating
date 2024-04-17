@@ -1,0 +1,23 @@
+{
+  "name": "gamesrating",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LizaChesnova/gamerating.git"
+  },
+  "author": "Liza Chesnova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LizaChesnova/gamerating/issues"
+  },
+  "homepage": "https://github.com/LizaChesnova/gamerating#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
